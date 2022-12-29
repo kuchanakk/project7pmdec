@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T19:32:35 IST" name="Default suite" finished-at="2022-12-29T19:33:50 IST" duration-ms="74577">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T19:32:35 IST" name="Default test" finished-at="2022-12-29T19:33:50 IST" duration-ms="74577">
+      <class name="g.project7pm.PopIyemsTest">
+        <test-method is-config="true" signature="steup()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:32:35 IST" name="steup" finished-at="2022-12-29T19:32:36 IST" duration-ms="416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:32:36 IST" name="openbrowser" finished-at="2022-12-29T19:32:43 IST" duration-ms="6750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Tabletest()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:32:43 IST" name="Tabletest" finished-at="2022-12-29T19:33:07 IST" duration-ms="23948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tabletest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:07 IST" name="closebrowser" finished-at="2022-12-29T19:33:07 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:07 IST" name="openbrowser" finished-at="2022-12-29T19:33:12 IST" duration-ms="4383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="laptoptest()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:12 IST" name="laptoptest" finished-at="2022-12-29T19:33:28 IST" duration-ms="16995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptoptest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:28 IST" name="closebrowser" finished-at="2022-12-29T19:33:29 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:29 IST" name="openbrowser" finished-at="2022-12-29T19:33:32 IST" duration-ms="3324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="spktest()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:32 IST" name="spktest" finished-at="2022-12-29T19:33:49 IST" duration-ms="16994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spktest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:49 IST" name="closebrowser" finished-at="2022-12-29T19:33:49 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="endtest()[pri:0, instance:g.project7pm.PopIyemsTest@78e4deb0]" started-at="2022-12-29T19:33:49 IST" name="endtest" finished-at="2022-12-29T19:33:50 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- g.project7pm.PopIyemsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
